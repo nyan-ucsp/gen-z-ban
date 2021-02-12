@@ -1,5 +1,5 @@
 {
-    "categories": [
+    "bandatacategories": [
         {
             "category_id": 1,
             "category_name": "Cigarettes"
@@ -17,7 +17,7 @@
             "category_name": "Media"
         }
     ],
-    "businesses": [
+    "bandatabusinesses": [
         {
             "business_id": 1,
             "category_id": 1,
