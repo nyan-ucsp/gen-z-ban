@@ -1,0 +1,30 @@
+{
+    "categories": [
+        {
+            "category_id": 1,
+            "category_name": "Cigarettes"
+        },
+        {
+            "category_id": 1,
+            "category_name": "Food and drink"
+        },
+        {
+            "category_id": 1,
+            "category_name": "Media"
+        }
+    ],
+    "businesses": [
+        {
+            "business_id": 1,
+            "category_id": 1,
+            "business_name": "Premium Gold",
+            "business_logo": ""
+        },
+        {
+            "business_id": 2,
+            "category_id": 1,
+            "business_name": "Red Ruby",
+            "business_logo": ""
+        }
+    ]
+}
