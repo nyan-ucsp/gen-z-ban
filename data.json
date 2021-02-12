@@ -5,11 +5,15 @@
             "category_name": "Cigarettes"
         },
         {
-            "category_id": 1,
+            "category_id": 2,
+            "category_name": "Entertainment/Tourism"
+        },
+        {
+            "category_id": 3,
             "category_name": "Food and drink"
         },
         {
-            "category_id": 1,
+            "category_id": 4,
             "category_name": "Media"
         }
     ],
@@ -18,13 +22,25 @@
             "business_id": 1,
             "category_id": 1,
             "business_name": "Premium Gold",
-            "business_logo": ""
+            "business_logo": "cigarettes_premium_gold.jpg"
         },
         {
             "business_id": 2,
             "category_id": 1,
             "business_name": "Red Ruby",
-            "business_logo": ""
+            "business_logo": "cigarettes_red_ruby.jpg"
+        },
+        {
+            "business_id": 3,
+            "category_id": 2,
+            "business_name": "Central Hotel Yangon",
+            "business_logo": "tourism_central_hotel_yangon.jpg"
+        },
+        {
+            "business_id": 4,
+            "category_id": 2,
+            "business_name": "Nan Myaing Cafe (Pwin Oo Lwin)",
+            "business_logo": "tourism_nan_myaing_cafe.jpg"
         }
     ]
 }
