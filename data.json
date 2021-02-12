@@ -59,6 +59,30 @@
             "category_id": 3,
             "business_name": "Black Shield Stout",
             "business_logo": "food_and_drink_black_shield_stout.jpg"
+        },
+        {
+            "business_id": 8,
+            "category_id": 3,
+            "business_name": "Kirin Ichiban",
+            "business_logo": "food_and_drink_kirin_ichiban.jpg"
+        },
+        {
+            "business_id": 9,
+            "category_id": 3,
+            "business_name": "Mandalay Beer",
+            "business_logo": "food_and_drink_mandalay_beer.jpg"
+        },
+        {
+            "business_id": 10,
+            "category_id": 3,
+            "business_name": "Mandalay Spriulina Anti-aging Beer",
+            "business_logo": "food_and_drink_mandalay_spirulina_anti_aging_beer.jpg"
+        },
+        {
+            "business_id": 11,
+            "category_id": 3,
+            "business_name": "Myanmar Beer",
+            "business_logo": "food_and_drink_myanmar_beer.jpg"
         }
     ]
 }
