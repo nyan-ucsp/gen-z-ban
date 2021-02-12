@@ -41,6 +41,24 @@
             "category_id": 2,
             "business_name": "Nan Myaing Cafe (Pwin Oo Lwin)",
             "business_logo": "tourism_nan_myaing_cafe.jpg"
+        },
+        {
+            "business_id": 5,
+            "category_id": 3,
+            "business_name": "Adaman Gold Blue",
+            "business_logo": "food_and_drink_andaman_gold_blue.jpg"
+        },
+        {
+            "business_id": 6,
+            "category_id": 3,
+            "business_name": "Adaman Gold Special",
+            "business_logo": "food_and_drink_andaman_gold_special.jpg"
+        },
+        {
+            "business_id": 7,
+            "category_id": 3,
+            "business_name": "Black Shield Stout",
+            "business_logo": "food_and_drink_black_shield_stout.jpg"
         }
     ]
 }
