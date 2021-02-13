@@ -22,67 +22,78 @@
             "business_id": 1,
             "category_id": 1,
             "business_name": "Premium Gold",
-            "business_logo": "cigarettes_premium_gold.jpg"
+            "business_logo": "cigarettes_premium_gold.jpg",
+            "business_detail":""
         },
         {
             "business_id": 2,
             "category_id": 1,
             "business_name": "Red Ruby",
-            "business_logo": "cigarettes_red_ruby.jpg"
+            "business_logo": "cigarettes_red_ruby.jpg",
+            "business_detail":""
         },
         {
             "business_id": 3,
             "category_id": 2,
             "business_name": "Central Hotel Yangon",
-            "business_logo": "tourism_central_hotel_yangon.jpg"
+            "business_logo": "tourism_central_hotel_yangon.jpg",
+            "business_detail":""
         },
         {
             "business_id": 4,
             "category_id": 2,
             "business_name": "Nan Myaing Cafe (Pwin Oo Lwin)",
-            "business_logo": "tourism_nan_myaing_cafe.jpg"
+            "business_logo": "tourism_nan_myaing_cafe.jpg",
+            "business_detail":""
         },
         {
             "business_id": 5,
             "category_id": 3,
             "business_name": "Adaman Gold Blue",
-            "business_logo": "food_and_drink_andaman_gold_blue.jpg"
+            "business_logo": "food_and_drink_andaman_gold_blue.jpg",
+            "business_detail":""
         },
         {
             "business_id": 6,
             "category_id": 3,
             "business_name": "Adaman Gold Special",
-            "business_logo": "food_and_drink_andaman_gold_special.jpg"
+            "business_logo": "food_and_drink_andaman_gold_special.jpg",
+            "business_detail":""
         },
         {
             "business_id": 7,
             "category_id": 3,
             "business_name": "Black Shield Stout",
-            "business_logo": "food_and_drink_black_shield_stout.jpg"
+            "business_logo": "food_and_drink_black_shield_stout.jpg",
+            "business_detail":""
         },
         {
             "business_id": 8,
             "category_id": 3,
             "business_name": "Kirin Ichiban",
-            "business_logo": "food_and_drink_kirin_ichiban.jpg"
+            "business_logo": "food_and_drink_kirin_ichiban.jpg",
+            "business_detail":""
         },
         {
             "business_id": 9,
             "category_id": 3,
             "business_name": "Mandalay Beer",
-            "business_logo": "food_and_drink_mandalay_beer.jpg"
+            "business_logo": "food_and_drink_mandalay_beer.jpg",
+            "business_detail":""
         },
         {
             "business_id": 10,
             "category_id": 3,
             "business_name": "Mandalay Spriulina Anti-aging Beer",
-            "business_logo": "food_and_drink_mandalay_spirulina_anti_aging_beer.jpg"
+            "business_logo": "food_and_drink_mandalay_spirulina_anti_aging_beer.jpg",
+            "business_detail":""
         },
         {
             "business_id": 11,
             "category_id": 3,
             "business_name": "Myanmar Beer",
-            "business_logo": "food_and_drink_myanmar_beer.jpg"
+            "business_logo": "food_and_drink_myanmar_beer.jpg",
+            "business_detail":""
         }
     ]
 }
