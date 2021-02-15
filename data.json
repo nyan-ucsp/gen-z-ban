@@ -1,26 +1,147 @@
 {
-    "contactinfo": "သင့်စီးပွားရေးသည်စစ်တပ်နှင့်ဆက်နွယ်မှုမရှိဘဲ ယခုစာရင်းတွင်ပါဝင်နေပါက ဖော်ပြပါ email သို့ဆက်သွယ်ကာ ပေးပို့နိုင်ပါတယ် \n Email ittracer2018@gmail.com",
+    "contactinfo": "သင့်စီးပွားရေးသည်စစ်တပ်နှင့်ဆက်နွယ်မှုမရှိဘဲ ယခုစာရင်းတွင်ပါဝင်နေပါက ဖော်ပြပါ email သို့ဆက်သွယ်ကာ ပေးပို့နိုင်ပါတယ်. \n\n Email ittracer2018@gmail.com",
     "bandatacategories": [
         {
             "category_id": 1,
-            "category_name": "Cigarettes"
+            "category_name": "Banking and Finance"
         },
         {
             "category_id": 2,
-            "category_name": "Entertainment/Tourism"
+            "category_name": "Manufacturing"
         },
         {
             "category_id": 3,
-            "category_name": "Food and drink"
+            "category_name": "Communication"
         },
         {
             "category_id": 4,
+            "category_name": "Transport"
+        },
+        {
+            "category_id": 5,
+            "category_name": "Food and drink"
+        },
+        {
+            "category_id": 6,
+            "category_name": "Health and Beauty Products"
+        },
+        {
+            "category_id": 7,
+            "category_name": "Cigarettes"
+        },
+        {
+            "category_id": 8,
+            "category_name": "Health Service"
+        },
+        {
+            "category_id": 9,
+            "category_name": "Construction"
+        },
+        {
+            "category_id": 10,
+            "category_name": "Trading Companies"
+        },
+        {
+            "category_id": 11,
+            "category_name": "Retail"
+        },
+        {
+            "category_id": 12,
+            "category_name": "Entertainment/Tourism"
+        },
+        {
+            "category_id": 13,
+            "category_name": "Industiral Estates/Offices"
+        },
+        {
+            "category_id": 14,
+            "category_name": "International Trades"
+        },
+        {
+            "category_id": 15,
             "category_name": "Media"
         }
     ],
     "bandatabusinesses": [
         {
             "business_id": 1,
+            "category_id": 1,
+            "business_name": "Aung Myint Moh Min Insurance",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 2,
+            "category_id": 1,
+            "business_name": "Aung Thitsar Oo Insurance",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 3,
+            "category_id": 1,
+            "business_name": "Innawa Bank",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 4,
+            "category_id": 1,
+            "business_name": "Myanmar Mobile Money",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 5,
+            "category_id": 1,
+            "business_name": "Myawaddy Bank",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 6,
+            "category_id": 1,
+            "business_name": "Mytel Pay",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 7,
+            "category_id": 2,
+            "business_name": "Life Coconut Charcoal Briquettes",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 8,
+            "category_id": 2,
+            "business_name": "Ngwe Pinlae Fishmeal",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 9,
+            "category_id": 2,
+            "business_name": "",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 7,
+            "category_id": 2,
+            "business_name": "",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 7,
+            "category_id": 2,
+            "business_name": "",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 2,
             "category_id": 1,
             "business_name": "Premium Gold",
             "business_logo": "cigarettes_premium_gold.jpg",
@@ -35,63 +156,63 @@
         },
         {
             "business_id": 3,
-            "category_id": 2,
+            "category_id": 3,
             "business_name": "Central Hotel Yangon",
             "business_logo": "tourism_central_hotel_yangon.jpg",
             "business_detail": ""
         },
         {
             "business_id": 4,
-            "category_id": 2,
+            "category_id": 3,
             "business_name": "Nan Myaing Cafe (Pwin Oo Lwin)",
             "business_logo": "tourism_nan_myaing_cafe.jpg",
             "business_detail": ""
         },
         {
             "business_id": 5,
-            "category_id": 3,
+            "category_id": 4,
             "business_name": "Adaman Gold Blue",
             "business_logo": "food_and_drink_andaman_gold_blue.jpg",
             "business_detail": ""
         },
         {
             "business_id": 6,
-            "category_id": 3,
+            "category_id": 4,
             "business_name": "Adaman Gold Special",
             "business_logo": "food_and_drink_andaman_gold_special.jpg",
             "business_detail": ""
         },
         {
             "business_id": 7,
-            "category_id": 3,
+            "category_id": 4,
             "business_name": "Black Shield Stout",
             "business_logo": "food_and_drink_black_shield_stout.jpg",
             "business_detail": ""
         },
         {
             "business_id": 8,
-            "category_id": 3,
+            "category_id": 4,
             "business_name": "Kirin Ichiban",
             "business_logo": "food_and_drink_kirin_ichiban.jpg",
             "business_detail": ""
         },
         {
             "business_id": 9,
-            "category_id": 3,
+            "category_id": 4,
             "business_name": "Mandalay Beer",
             "business_logo": "food_and_drink_mandalay_beer.jpg",
             "business_detail": ""
         },
         {
             "business_id": 10,
-            "category_id": 3,
+            "category_id": 4,
             "business_name": "Mandalay Spriulina Anti-aging Beer",
             "business_logo": "food_and_drink_mandalay_spirulina_anti_aging_beer.jpg",
             "business_detail": ""
         },
         {
             "business_id": 11,
-            "category_id": 3,
+            "category_id": 4,
             "business_name": "Myanmar Beer",
             "business_logo": "food_and_drink_myanmar_beer.jpg",
             "business_detail": ""
