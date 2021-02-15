@@ -122,99 +122,400 @@
         {
             "business_id": 9,
             "category_id": 2,
-            "business_name": "",
+            "business_name": "Silver Sea Paper Carton Box Production",
             "business_logo": "",
-            "business_detail": ""
-        },
-        {
-            "business_id": 7,
-            "category_id": 2,
-            "business_name": "",
-            "business_logo": "",
-            "business_detail": ""
-        },
-        {
-            "business_id": 7,
-            "category_id": 2,
-            "business_name": "",
-            "business_logo": "",
-            "business_detail": ""
-        },
-        {
-            "business_id": 2,
-            "category_id": 1,
-            "business_name": "Premium Gold",
-            "business_logo": "cigarettes_premium_gold.jpg",
-            "business_detail": ""
-        },
-        {
-            "business_id": 2,
-            "category_id": 1,
-            "business_name": "Red Ruby",
-            "business_logo": "cigarettes_red_ruby.jpg",
-            "business_detail": ""
-        },
-        {
-            "business_id": 3,
-            "category_id": 3,
-            "business_name": "Central Hotel Yangon",
-            "business_logo": "tourism_central_hotel_yangon.jpg",
-            "business_detail": ""
-        },
-        {
-            "business_id": 4,
-            "category_id": 3,
-            "business_name": "Nan Myaing Cafe (Pwin Oo Lwin)",
-            "business_logo": "tourism_nan_myaing_cafe.jpg",
-            "business_detail": ""
-        },
-        {
-            "business_id": 5,
-            "category_id": 4,
-            "business_name": "Adaman Gold Blue",
-            "business_logo": "food_and_drink_andaman_gold_blue.jpg",
-            "business_detail": ""
-        },
-        {
-            "business_id": 6,
-            "category_id": 4,
-            "business_name": "Adaman Gold Special",
-            "business_logo": "food_and_drink_andaman_gold_special.jpg",
-            "business_detail": ""
-        },
-        {
-            "business_id": 7,
-            "category_id": 4,
-            "business_name": "Black Shield Stout",
-            "business_logo": "food_and_drink_black_shield_stout.jpg",
-            "business_detail": ""
-        },
-        {
-            "business_id": 8,
-            "category_id": 4,
-            "business_name": "Kirin Ichiban",
-            "business_logo": "food_and_drink_kirin_ichiban.jpg",
-            "business_detail": ""
-        },
-        {
-            "business_id": 9,
-            "category_id": 4,
-            "business_name": "Mandalay Beer",
-            "business_logo": "food_and_drink_mandalay_beer.jpg",
             "business_detail": ""
         },
         {
             "business_id": 10,
-            "category_id": 4,
-            "business_name": "Mandalay Spriulina Anti-aging Beer",
-            "business_logo": "food_and_drink_mandalay_spirulina_anti_aging_beer.jpg",
+            "category_id": 2,
+            "business_name": "Thundar Sulphric Acid",
+            "business_logo": "",
             "business_detail": ""
         },
         {
             "business_id": 11,
+            "category_id": 2,
+            "business_name": "Tristar Tyres",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 12,
+            "category_id": 3,
+            "business_name": "MECtel",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 13,
+            "category_id": 3,
+            "business_name": "Mytel",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 14,
             "category_id": 4,
+            "business_name": "Adapati (AAPT) Waterway Transport",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 15,
+            "category_id": 4,
+            "business_name": "Bandoola Taxi",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 16,
+            "category_id": 4,
+            "business_name": "Bandoola Transportation",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 17,
+            "category_id": 4,
+            "business_name": "City Liner Bus Services",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 18,
+            "category_id": 4,
+            "business_name": "Parami CNG Station",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 19,
+            "category_id": 4,
+            "business_name": "Parami Express",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 20,
+            "category_id": 4,
+            "business_name": "Parami Taxi",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 21,
+            "category_id": 4,
+            "business_name": "Pathein Thu Express",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 22,
+            "category_id": 4,
+            "business_name": "Sale and Service Centre, Mingalardon Township, Yangon(vehicle repairs & spare parts)",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 23,
+            "category_id": 4,
+            "business_name": "Shan Ma Lay Express",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 24,
+            "category_id": 4,
+            "business_name": "Shwe Man Thu Highway Bus Station",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 25,
+            "category_id": 4,
+            "business_name": "Shwe Mann Thu Express (Shaw Man Thu)",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 26,
+            "category_id": 4,
+            "business_name": "Shwe Myaing Thu Express",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 27,
+            "category_id": 4,
+            "business_name": "Than Myan Thu Express",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 28,
+            "category_id": 5,
+            "business_name": "Adipati Rice (AAPT Rice)",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 29,
+            "category_id": 5,
+            "business_name": "Akasi Logn Grain Rice",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 30,
+            "category_id": 5,
+            "business_name": "Andaman Gold Blue",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 31,
+            "category_id": 5,
+            "business_name": "Andaman Gold Special",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 32,
+            "category_id": 5,
+            "business_name": "Black Shield Stout",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 33,
+            "category_id": 5,
+            "business_name": "Dagon Beverages",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 34,
+            "category_id": 5,
+            "business_name": "Dagon Diary Plant",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 35,
+            "category_id": 5,
+            "business_name": "Dagon Extra Strong Beer",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 36,
+            "category_id": 5,
+            "business_name": "Dagon Fresh Lemon Sparkling",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 37,
+            "category_id": 5,
+            "business_name": "Dagon Fresh Soda",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 38,
+            "category_id": 5,
+            "business_name": "Dagon Gin",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 39,
+            "category_id": 5,
+            "business_name": "Dagon Leger Beer",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 40,
+            "category_id": 5,
+            "business_name": "Dagon Light Lager Beer",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 41,
+            "category_id": 5,
+            "business_name": "Dagon Malta Fresh",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 42,
+            "category_id": 5,
+            "business_name": "Dagon Rum",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 43,
+            "category_id": 5,
+            "business_name": "Dagon Single Malt Lager Beer",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 44,
+            "category_id": 5,
+            "business_name": "Dagon Super Lager Beer",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 45,
+            "category_id": 5,
+            "business_name": "Fleur Marguerite Sunflower Rice",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 46,
+            "category_id": 5,
+            "business_name": "Kirin Ichiban",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 47,
+            "category_id": 5,
+            "business_name": "Mandalay Beer",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 48,
+            "category_id": 5,
+            "business_name": "Mandalay Brewery",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 49,
+            "category_id": 5,
+            "business_name": "Mandalay Spirulina Anti-aging Beer",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 50,
+            "category_id": 5,
+            "business_name": "Mandalay Strong Beer",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 51,
+            "category_id": 5,
+            "business_name": "Mandalay Super Fresh Lager",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 52,
+            "category_id": 5,
+            "business_name": "MEC Myanmar Rice",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 53,
+            "category_id": 5,
+            "business_name": "Moon Diary Creamer",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 54,
+            "category_id": 5,
             "business_name": "Myanmar Beer",
-            "business_logo": "food_and_drink_myanmar_beer.jpg",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 55,
+            "category_id": 5,
+            "business_name": "Myanmar Brewery",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 56,
+            "category_id": 5,
+            "business_name": "Myanmar Premium Beer",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 57,
+            "category_id": 5,
+            "business_name": "Nan Myaing Coffee",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 58,
+            "category_id": 5,
+            "business_name": "Nay Pyi Taw Water",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 59,
+            "category_id": 5,
+            "business_name": "Ngwe Pin Lei Premium Marine Products",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 60,
+            "category_id": 5,
+            "business_name": "Pyin Oo Lwin Coffee",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 61,
+            "category_id": 5,
+            "business_name": "Royal Kareweik Sugar",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 62,
+            "category_id": 5,
+            "business_name": "Seven7 Condensed Milk",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 63,
+            "category_id": 5,
+            "business_name": "Shwe Phe Oo Teamix",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 64,
+            "category_id": 5,
+            "business_name": "Sugarmec",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 65,
+            "category_id": 5,
+            "business_name": "Sun Condensed Milk",
+            "business_logo": "",
             "business_detail": ""
         }
     ]
