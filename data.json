@@ -270,21 +270,21 @@
             "business_id": 30,
             "category_id": 5,
             "business_name": "Andaman Gold Blue",
-            "business_logo": "",
+            "business_logo": "food_and_drink_andaman_gold_blue.jpg",
             "business_detail": ""
         },
         {
             "business_id": 31,
             "category_id": 5,
             "business_name": "Andaman Gold Special",
-            "business_logo": "",
+            "business_logo": "food_and_drink_andaman_gold_special.jpg",
             "business_detail": ""
         },
         {
             "business_id": 32,
             "category_id": 5,
             "business_name": "Black Shield Stout",
-            "business_logo": "",
+            "business_logo": "food_and_drink_black_shield_stout.jpg",
             "business_detail": ""
         },
         {
@@ -382,14 +382,14 @@
             "business_id": 46,
             "category_id": 5,
             "business_name": "Kirin Ichiban",
-            "business_logo": "",
+            "business_logo": "food_and_drink_kirin_ichiban.jpg",
             "business_detail": ""
         },
         {
             "business_id": 47,
             "category_id": 5,
             "business_name": "Mandalay Beer",
-            "business_logo": "",
+            "business_logo": "food_and_drink_mandalay_beer.jpg",
             "business_detail": ""
         },
         {
@@ -403,7 +403,7 @@
             "business_id": 49,
             "category_id": 5,
             "business_name": "Mandalay Spirulina Anti-aging Beer",
-            "business_logo": "",
+            "business_logo": "food_and_drink_mandalay_spirulina_anti_aging_beer.jpg",
             "business_detail": ""
         },
         {
@@ -438,7 +438,7 @@
             "business_id": 54,
             "category_id": 5,
             "business_name": "Myanmar Beer",
-            "business_logo": "",
+            "business_logo": "food_and_drink_myanmar_beer.jpg",
             "business_detail": ""
         },
         {
