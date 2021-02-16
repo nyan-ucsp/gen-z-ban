@@ -622,6 +622,55 @@
             "business_name": "Thamadaw Special Clinic",
             "business_logo": "",
             "business_detail": ""
+        },
+        {
+            "business_id": 81,
+            "category_id": 9,
+            "business_name": "Berger Paint",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 82,
+            "category_id": 9,
+            "business_name": "Elephant King Cement",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 83,
+            "category_id": 9,
+            "business_name": "Flying Horse Cement",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 84,
+            "category_id": 9,
+            "business_name": "Rhino Cement",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 85,
+            "category_id": 9,
+            "business_name": "Rhinoceros Cemec (Cement)",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 86,
+            "category_id": 9,
+            "business_name": "Sigma Cable",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 87,
+            "category_id": 9,
+            "business_name": "Tristar Steel",
+            "business_logo": "",
+            "business_detail": ""
         }
     ]
 }
