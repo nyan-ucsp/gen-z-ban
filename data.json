@@ -776,6 +776,97 @@
             "business_name": "Starmart Nine Mile Showroom",
             "business_logo": "",
             "business_detail": ""
+        },
+        {
+            "business_id": 103,
+            "category_id": 12,
+            "business_name": "Central Hotel Yangon",
+            "business_logo": "tourism_central_hotel_yangon.jpg",
+            "business_detail": ""
+        },
+        {
+            "business_id": 104,
+            "category_id": 12,
+            "business_name": "Diamond White Restaurant Yangon",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 105,
+            "category_id": 12,
+            "business_name": "Hanthawaddy Golf Course",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 106,
+            "category_id": 12,
+            "business_name": "Indoor Skydiving",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 107,
+            "category_id": 12,
+            "business_name": "Myawaddy Tours and Travel",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 108,
+            "category_id": 12,
+            "business_name": "Myawaddy Travel and Tours",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 109,
+            "category_id": 12,
+            "business_name": "Nan Myaing Cafe' (Pwin Oo Lwin)",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 110,
+            "category_id": 12,
+            "business_name": "Okkala Golf Resort",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 112,
+            "category_id": 12,
+            "business_name": "Royal Sportainment Bowling Alley",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 113,
+            "category_id": 12,
+            "business_name": "Royal Sportainment Complex",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 114,
+            "category_id": 12,
+            "business_name": "Royal Sportainment Ice Skating",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 115,
+            "category_id": 12,
+            "business_name": "Shwe Gandamar Ballroom (Pathein)",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 116,
+            "category_id": 12,
+            "business_name": "Shwe Gandamar Grand Ballroom (Yangon)",
+            "business_logo": "",
+            "business_detail": ""
         }
     ]
 }
