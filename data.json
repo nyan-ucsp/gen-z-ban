@@ -510,6 +510,41 @@
             "business_name": "Sugarmec",
             "business_logo": "",
             "business_detail": ""
+        },
+        {
+            "business_id": 65,
+            "category_id": 5,
+            "business_name": "Sun Condensed Milk",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 66,
+            "category_id": 6,
+            "business_name": "Dentomec Toothbrushes",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 67,
+            "category_id": 6,
+            "business_name": "Dentomec Toothpaste",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 68,
+            "category_id": 6,
+            "business_name": "Life Coconut Oil",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 69,
+            "category_id": 6,
+            "business_name": "Padoma Soap",
+            "business_logo": "",
+            "business_detail": ""
         }
     ]
 }
