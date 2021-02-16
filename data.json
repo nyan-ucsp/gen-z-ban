@@ -545,6 +545,83 @@
             "business_name": "Padoma Soap",
             "business_logo": "",
             "business_detail": ""
+        },
+        {
+            "business_id": 70,
+            "category_id": 7,
+            "business_name": "Premium Gold",
+            "business_logo": "cigarettes_premium_gold.jpg",
+            "business_detail": ""
+        },
+        {
+            "business_id": 71,
+            "category_id": 7,
+            "business_name": "Red Ruby",
+            "business_logo": "cigarettes_red_ruby.jpg",
+            "business_detail": ""
+        },
+        {
+            "business_id": 72,
+            "category_id": 8,
+            "business_name": "Defence Services General Hospital",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 73,
+            "category_id": 8,
+            "business_name": "Defence Services Liver Hospital",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 74,
+            "category_id": 8,
+            "business_name": "Defence Services Medical Research Center",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 75,
+            "category_id": 8,
+            "business_name": "Defence Services Obsterics, Gyanecology and Child Health Hospital",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 76,
+            "category_id": 8,
+            "business_name": "Defence Services Orthopaedics Hospital",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 77,
+            "category_id": 8,
+            "business_name": "Kan Thar Yar Hospital",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 78,
+            "category_id": 8,
+            "business_name": "Military Institute of Nursing and Paramedical Science",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 79,
+            "category_id": 8,
+            "business_name": "No.2 Malitary Hospital",
+            "business_logo": "",
+            "business_detail": ""
+        },
+        {
+            "business_id": 80,
+            "category_id": 8,
+            "business_name": "Thamadaw Special Clinic",
+            "business_logo": "",
+            "business_detail": ""
         }
     ]
 }
