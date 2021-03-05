@@ -151,7 +151,7 @@
             "business_id": null,
             "category_id": 3,
             "business_name": "Mytel",
-            "business_logo": "communication_mectel.jpeg",
+            "business_logo": "communication_mytel.jpeg",
             "business_detail": ""
         },
         {
@@ -186,14 +186,14 @@
             "business_id": null,
             "category_id": 4,
             "business_name": "Parami CNG Station",
-            "business_logo": "no-image-available.jpeg",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 4,
             "business_name": "Parami Express",
-            "business_logo": "no-image-available.jpeg",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
@@ -207,14 +207,14 @@
             "business_id": null,
             "category_id": 4,
             "business_name": "Pathein Thu Express",
-            "business_logo": "no-image-available.jpeg",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 4,
             "business_name": "Sale and Service Centre, Mingalardon Township, Yangon(vehicle repairs & spare parts)",
-            "business_logo": "no-image-available.jpeg",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
@@ -263,7 +263,7 @@
             "business_id": null,
             "category_id": 5,
             "business_name": "Akasi Logn Grain Rice",
-            "business_logo": "no-image-available.jpeg",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
@@ -375,7 +375,7 @@
             "business_id": null,
             "category_id": 5,
             "business_name": "Fleur Marguerite Sunflower Rice",
-            "business_logo": "no-image-available.jpeg",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
@@ -431,7 +431,7 @@
             "business_id": null,
             "category_id": 5,
             "business_name": "Moon Diary Creamer",
-            "business_logo": "no-image-available.jpeg",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
@@ -473,28 +473,28 @@
             "business_id": null,
             "category_id": 5,
             "business_name": "Ngwe Pin Lei Premium Marine Products",
-            "business_logo": "no-image-available.jpeg",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 5,
             "business_name": "Pyin Oo Lwin Coffee",
-            "business_logo": "no-image-available.jpeg",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 5,
             "business_name": "Royal Kareweik Sugar",
-            "business_logo": "no-image-available.jpeg",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 5,
             "business_name": "Seven7 Condensed Milk",
-            "business_logo": "no-image-available.jpeg",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
@@ -536,7 +536,7 @@
             "business_id": null,
             "category_id": 6,
             "business_name": "Life Coconut Oil",
-            "business_logo": "no-image-available.jpeg",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
@@ -571,28 +571,28 @@
             "business_id": null,
             "category_id": 8,
             "business_name": "Defence Services Liver Hospital",
-            "business_logo": "no-image-available.jpeg",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 8,
             "business_name": "Defence Services Medical Research Center",
-            "business_logo": "no-image-available.jpeg",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 8,
             "business_name": "Defence Services Obsterics, Gyanecology and Child Health Hospital",
-            "business_logo": "no-image-available.jpeg",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 8,
             "business_name": "Defence Services Orthopaedics Hospital",
-            "business_logo": "health_services_defence_services_orthopaedics_hospital",
+            "business_logo": "health_services_defence_services_orthopaedics_hospital.PNG",
             "business_detail": ""
         },
         {
@@ -620,14 +620,14 @@
             "business_id": null,
             "category_id": 8,
             "business_name": "Thamadaw Special Clinic",
-            "business_logo": "no-image-available.jpeg",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 9,
             "business_name": "Berger Paint",
-            "business_logo": "no-image-available.jpeg",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
@@ -641,7 +641,7 @@
             "business_id": null,
             "category_id": 9,
             "business_name": "Flying Horse Cement",
-            "business_logo": "no-image-available.jpeg",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
@@ -669,14 +669,14 @@
             "business_id": null,
             "category_id": 9,
             "business_name": "Tristar Steel",
-            "business_logo": "no-image-available.jpeg",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 10,
             "business_name": "Adipati Agricultural Produce Trading",
-            "business_logo": "",
+            "business_logo": "trading_companines_adipati_agricultural_produce_trading",
             "business_detail": ""
         },
         {
@@ -690,91 +690,91 @@
             "business_id": null,
             "category_id": 10,
             "business_name": "Ngwe Pinlae Cold Store",
-            "business_logo": "",
+            "business_logo": "trading_company_ngwe_pinlae_cold_store.jpg",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 10,
             "business_name": "Ngwe Pinlae Fishries Company Ltd",
-            "business_logo": "",
+            "business_logo": "trading_company_ngwe_pinlae_cold_store.jpg",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 10,
             "business_name": "Ngwe Pinlae Livestock Breeding and Fiseries Company",
-            "business_logo": "",
+            "business_logo": "trading_company_ngwe_pinlae_cold_store.jpg",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 10,
             "business_name": "Shwe Gandamar International Trading",
-            "business_logo": "",
+            "business_logo": "trading_company_shwe_gandamar_international_trading.jpg",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 10,
             "business_name": "Shwe Innwa Gems",
-            "business_logo": "",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 11,
             "business_name": "547 Minimarts",
-            "business_logo": "",
+            "business_logo": "retail_547_minimarts.jpg",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 11,
             "business_name": "Adipati Rice Mill Shop",
-            "business_logo": "",
+            "business_logo": "retail_adipati_rice_mill_shop.jpg",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 11,
             "business_name": "Golden Land Duty Free Shops",
-            "business_logo": "",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 11,
             "business_name": "Myawaddy Petrol Shop (Station)",
-            "business_logo": "",
+            "business_logo": "retail_myawaddy_petrol_shop.jpg",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 11,
             "business_name": "Ruby Mart (Yangon & Pyin Oo Lwin)",
-            "business_logo": "",
+            "business_logo": "retail_ruby_mart.jpg",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 11,
             "business_name": "Satake Showroom",
-            "business_logo": "",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 11,
             "business_name": "Shwe Gandamar",
-            "business_logo": "",
+            "business_logo": "retail_shwe_gandamar.jpg",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 11,
             "business_name": "Starmart Nine Mile Showroom",
-            "business_logo": "",
+            "business_logo": "retail_star_mart_nine_mile.jpg",
             "business_detail": ""
         },
         {
@@ -788,35 +788,35 @@
             "business_id": null,
             "category_id": 12,
             "business_name": "Diamond White Restaurant Yangon",
-            "business_logo": "",
+            "business_logo": "tourism_diamond_white.jpg",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 12,
             "business_name": "Hanthawaddy Golf Course",
-            "business_logo": "",
+            "business_logo": "tourism_hanthawaddy_golf_course.jpg",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 12,
             "business_name": "Indoor Skydiving",
-            "business_logo": "",
+            "business_logo": "tourism_indoor_sky_diving.jpg",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 12,
             "business_name": "Myawaddy Tours and Travel",
-            "business_logo": "",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 12,
             "business_name": "Myawaddy Travel and Tours",
-            "business_logo": "",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
@@ -830,70 +830,70 @@
             "business_id": null,
             "category_id": 12,
             "business_name": "Okkala Golf Resort",
-            "business_logo": "",
+            "business_logo": "tourism_okkala_golf_resort.jpg",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 12,
             "business_name": "Royal Sportainment Bowling Alley",
-            "business_logo": "",
+            "business_logo": "tourism_toyal_sportaiment_bowling_alley.jpg",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 12,
             "business_name": "Royal Sportainment Complex",
-            "business_logo": "",
+            "business_logo": "tourism_royal_sporttainment_complex.jpg",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 12,
             "business_name": "Royal Sportainment Ice Skating",
-            "business_logo": "",
+            "business_logo": "tourism_rotyal_skating.jpg",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 12,
             "business_name": "Shwe Gandamar Ballroom (Pathein)",
-            "business_logo": "",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 12,
             "business_name": "Shwe Gandamar Grand Ballroom (Yangon)",
-            "business_logo": "",
+            "business_logo": "tourism_shwe_gandamar_ballroom.jpg",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 13,
             "business_name": "Indagaw Industrial Zone",
-            "business_logo": "",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 13,
             "business_name": "Myawaddy Bank Luxury Complex",
-            "business_logo": "",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 13,
             "business_name": "Ngwe Pinlae Industrial Estate",
-            "business_logo": "",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
             "business_id": null,
             "category_id": 13,
             "business_name": "Pyimabin Industrial Estate",
-            "business_logo": "",
+            "business_logo": "no-image-available.png",
             "business_detail": ""
         },
         {
